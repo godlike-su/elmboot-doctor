@@ -1,4 +1,4 @@
-# elmboot-vue3
+# elmboot-doctor
 
 ## Project setup
 ```
